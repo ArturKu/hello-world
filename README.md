@@ -1,6 +1,5 @@
 # hello-world
-
-Привет народ 
+hello
 
 
 
